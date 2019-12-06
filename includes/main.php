@@ -11,7 +11,7 @@
 
   $liste = glob("./includes/*.inc.php");
   //var_dump($liste);
-  $page = "./includes/" . $page . ".inc.php";
+  $page = "./includes/" . $page . "*.inc.php";
 
   if (in_array($page, $liste)) {
     require $page;
