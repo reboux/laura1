@@ -26,3 +26,9 @@ form div input[type="submit"] {
   font-size: 1.5em;
   margin: 0 0 0 250px;
 }
+form textarea{
+  font-family: Verdana, Arial, sans-serif;
+}
+form fieldset {
+  outline: 2px solid red;
+}
