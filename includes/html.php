@@ -6,6 +6,3 @@
     <link rel="stylesheet" href="../laura1/assets/css/style.css" />
   </head>
   <body>
-
-  </body>
-</html>

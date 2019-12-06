@@ -8,4 +8,3 @@
           <li><a href="index.php?page=mention"  title="Les mentions légales du site">Mentions Legales</a></li>
         </ul>
       </nav>
-</header>
