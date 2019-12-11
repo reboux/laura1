@@ -2,7 +2,7 @@
 <?php
 
 if (isset($_POST['frmContact'])) {
-  echo "je viens du formulaire";
+  $nom = htmlspecialchars (trim($_POST['nom']));
 }
 
 else {
