@@ -3,6 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>Blabla</title>
-    <link rel="stylesheet" href="../laura1/assets/css/style.css" />
+    <link rel="stylesheet" href="laura1/assets/css/style.css" />
   </head>
   <body>
