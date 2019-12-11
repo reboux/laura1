@@ -2,7 +2,7 @@
 <?php
 
 if (isset($_POST['frmContact'])) {
-  $nom = htmlspecialchars (trim($_POST['nom']));
+  $nom = htmlspecialchars (addslashes(urldecode(trim($_POST['nom']))));
 }
 
 else {
