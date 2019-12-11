@@ -7,7 +7,7 @@
   </div>
   <div>
       <label for="email">Email :</label>
-      <input type="mail" name="email" id="email"/>
+      <input type="email" name="email" id="email"/>
   </div>
   <div>
       <label for="mdp">Mot de passe :</label>

@@ -1,5 +1,10 @@
 <?php
 date_default_timezone_set('Europe/Paris');
+require_once './functions/checkInput.php';
+require './includes/html.php';
+require './includes/header.php';
+require './includes/main.php';
+require './includes/footer.php';
 //echo "Hello Michel";
 
 // commentaire sur une ligne
@@ -52,9 +57,6 @@ date_default_timezone_set('Europe/Paris');
 //echo $play;
 
 //pour faire afficher les fichiers require => copier coller
-require_once "./includes/html.php";
-require_once "./includes/header.php";
-require_once "./includes/main.php";
-require_once "./includes/footer.php";
+
 // ou alors on peut utiliser includes => verifie les erreurs
 //include"./includes/html.php;
